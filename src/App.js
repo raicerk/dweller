@@ -2,8 +2,8 @@ import React from 'react';
 import './App.css';
 import logo from './logo.svg'
 
-import Header from './components/Header';
-import Photo from './components/Photo';
+import Header from './organisms/Header';
+import Photo from './molecules/Photo';
 
 function App() {
   return (
